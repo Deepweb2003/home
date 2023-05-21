@@ -1,0 +1,88 @@
+.isr__navbar{
+   background:#004078;
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem 0rem;
+}
+.isr__navbar-elements{
+    background: #042848;
+    padding: 1rem 0rem;
+    width: 100%;
+
+}
+
+.logo1{
+  
+  width: 80px;
+  height: 60px;
+  margin: 0px 20px; 
+  max-width: 100%;
+}
+.title1{
+  
+  color: white;
+  font-size: 3vw;
+  font-weight:bolder;
+
+}
+
+.ver{
+  color: white;
+}
+
+/* .menu {
+ color:white;
+ position: absolute;
+ margin: 15px;
+ display: flex;
+
+} */
+
+
+
+
+
+
+@media (min-width: 600px) {
+  .mb{
+    margin-left: 279px;
+  }
+}
+
+
+
+
+
+
+@media (max-width: 600px) {
+  /* Your CSS styles for smaller screens here */
+  .logo1{
+    width: 42px;
+  }
+  .title1{
+  
+    color: white;
+    font-size: 3vw;
+    font-weight:bolder;
+  
+  }
+  
+.ver{
+  color: white;
+  font-size: 10px;
+}
+}
+
+
+
+/* menu bar */
+
+
+  
+
+  
+  
+ 
+
